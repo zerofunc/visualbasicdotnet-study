@@ -1,0 +1,9 @@
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
