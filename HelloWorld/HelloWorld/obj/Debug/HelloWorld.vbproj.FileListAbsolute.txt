@@ -1,0 +1,10 @@
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
