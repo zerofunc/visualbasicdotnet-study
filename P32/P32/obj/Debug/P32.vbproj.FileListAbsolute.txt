@@ -1,0 +1,10 @@
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\bin\Debug\P32.exe.config
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\bin\Debug\P32.exe
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\bin\Debug\P32.pdb
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\bin\Debug\P32.xml
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\obj\Debug\P32.Form1.resources
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\obj\Debug\P32.Resources.resources
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\obj\Debug\P32.vbproj.GenerateResource.Cache
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\obj\Debug\P32.exe
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\obj\Debug\P32.xml
+C:\Users\YooHyeongJu\Documents\GitHub\visualbasicdotnet-study\P32\P32\obj\Debug\P32.pdb
